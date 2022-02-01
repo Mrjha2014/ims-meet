@@ -21,5 +21,5 @@ A MeeTup call implementation using WebRTC, Socket.io and Node.js. This demo is i
 
  
 # Demo
-You can test at .
+You can test at. https://ims-meet.herokuapp.com/
 
