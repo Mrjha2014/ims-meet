@@ -227,6 +227,8 @@
 @media (min-width:768px){
     .card{
         width: 50%;
+        hight:80%;
         z-index: 1000;
     }
 }
+
