@@ -64,12 +64,13 @@
 
 .main{
     padding-top: 40px;
+    margin-top: 50px;
 }
 
 
 .remote-video{
     width:100%;
-    height:auto;
+    height:80%;
     max-height: 90vh;
 }
 
